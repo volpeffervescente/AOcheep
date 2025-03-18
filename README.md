@@ -4,10 +4,10 @@
 
 | **Name and Surname** | **Linkedin** |
 | :---: | :---: 
-| `Martina Fortuna `
-| `Leonardo Mariut `
+| `Martina Fortuna ` []
+| `Leonardo Mariut ` []
 
 
 ## Brief Description
- mettere lunk presentazione 
+ [presentation link](https://docs.google.com/presentation/d/1-59-kMRSMNM9pAA1vgBdxTjcmz2GJfJY-6RpCuk67mo/edit)
 
