@@ -1,4 +1,5 @@
 # AOcheep
+Experimental project for Sapienza's "IoT - Algorithms and Services" course. ESP32-S3 based TFLite Micro bird classifier
 
 ## Members
 
