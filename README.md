@@ -5,8 +5,8 @@ Experimental project for Sapienza's "IoT - Algorithms and Services" course. ESP3
 
 | **Name and Surname** | **Linkedin** |
 | :---: | :---: 
-| `Martina Fortuna ` []
-| `Leonardo Mariut ` []
+| `Martina Fortuna ` 
+| `Leonardo Mariut ` 
 
 
 ## Brief Description
